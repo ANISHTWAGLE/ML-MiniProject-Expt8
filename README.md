@@ -1,4 +1,5 @@
 # CelebA IMLE GAN and Visualization Toolkit
+# Dataset :- https://www.kaggle.com/datasets/jessicali9530/celeba-dataset
 
 This project provides a complete pipeline for analyzing the CelebA dataset and training a Generative Adversarial Network (GAN) using an Implicit Maximum Likelihood Estimation (IMLE) loss.
 
