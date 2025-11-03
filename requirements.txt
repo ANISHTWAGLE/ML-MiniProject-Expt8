@@ -1,0 +1,36 @@
+# Core libraries
+numpy>=1.24.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+seaborn>=0.13.0
+scikit-learn>=1.3.0
+scipy>=1.11.0
+
+# Deep learning
+torch>=2.0.0
+torchvision>=0.15.0
+tqdm>=4.65.0
+
+# Image processing
+Pillow>=10.0.0
+opencv-python>=4.8.0
+imageio>=2.31.0
+
+# Visualization
+plotly>=5.15.0
+umap-learn>=0.5.5
+
+# File handling and exports
+h5py>=3.9.0
+
+# Jupyter support (optional)
+notebook>=7.0.0
+ipywidgets>=8.1.0
+
+# Reproducibility & Logging
+wandb>=0.16.0
+tensorboard>=2.15.0
+
+# Optional utilities
+pytest>=7.4.0
+rich>=13.5.0
