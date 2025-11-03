@@ -119,3 +119,5 @@ The final model (Approach 3) achieved stable training by incorporating a suite o
 * **Label Smoothing** is a simple and crucial trick to prevent the discriminator loss from collapsing to zero.
 * **Slowing down the discriminator** with a lower learning rate (`lr_D < lr_G`) is essential for balance.
 * **IMLE loss** requires careful **weighting** and a **warmup period**. Adding it from the beginning with a high weight (as in Approach 1) destabilizes the generator.
+* Our Best Result:-
+![WhatsApp Image 2025-10-24 at 23 36 23_e7f07b3b](https://github.com/user-attachments/assets/c95a1fb9-b98f-4a5b-a8e5-d5335d3282b4)
